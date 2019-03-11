@@ -1,0 +1,14 @@
+{
+  "name": "plantscraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/puppeteer": "^1.12.2",
+    "cheerio": "^1.0.0-rc.2",
+    "image-data-uri": "^2.0.0",
+    "puppeteer": "^1.13.0",
+    "ts": "^0.2.2",
+    "typescript": "^3.3.3333"
+  }
+}
